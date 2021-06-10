@@ -11,3 +11,5 @@ def guess(x):
 
     print(f'You have guessed the number {random_number} correctly!')
     
+//then type guess(n), (n is int) and run your code
+
